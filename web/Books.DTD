@@ -1,0 +1,5 @@
+<!ELEMENT details(title,author,year,price)>
+<!ELEMENT title(#PCDATA)>
+<!ELEMENT author(#PCDATA)>
+<!ELEMENT year(#PCDATA)>
+<!ELEMENT price(#PCDATA)>

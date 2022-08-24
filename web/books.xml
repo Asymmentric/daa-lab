@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE book SYSTEM "books.dtd">
+<book>
+
+<details>
+    <title>dsdsdC</title>
+    <author> BalaGuru Swami</author>
+    <year>2022</year>
+    <price>255/-</price>
+</details>
+
+<details>
+    <title>dsdsdC</title>
+    <author> BalaGuru Swami</author>
+    <year>2022</year>
+    <price>255/-</price>
+</details>
+
+<details>
+    <title>dsdsdC</title>
+    <author> BalaGuru Swami</author>
+    <year>2022</year>
+    <price>255/-</price>
+</details>
+</book>
